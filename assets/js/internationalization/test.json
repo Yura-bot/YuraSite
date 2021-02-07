@@ -1,0 +1,48 @@
+{
+    "id" : "782266512626286663",
+    "prefix" : "?",
+    "lang" : "english",
+    "welcome" : {
+        "enabled" : false,
+        "message" : null,
+        "channel" : null,
+        "withEmbed" : null,
+        "withImage" : null,
+        "config" : {
+            "colorTitle" : "#563d7c",
+            "colorBackground" : "#563d7c",
+            "img" : null
+        }
+    },
+    "welcomeMp" : null,
+    "goodbye" : {
+        "enabled" : false,
+        "message" : null,
+        "channel" : null,
+        "withEmbed" : null,
+        "withImage" : null,
+        "config" : {
+            "colorTitle" : "#563d7c",
+            "colorBackground" : "#563d7c",
+            "img" : null
+        }
+    },
+    "autorole" : {
+            "enabled" : false,
+            "role" : null
+    },
+    "automod" : {
+        "antiRaid" : false,
+        "antiPub" : false,
+        "antiLink" : false,
+        "antiBadWords" : false
+    },
+    "tickets" : {
+        "enabled" : false,
+        "category" : null,
+        "channel" : null,
+        "role" : null
+    },
+    "suggestions" : null,
+    "muteRole" : null
+}
