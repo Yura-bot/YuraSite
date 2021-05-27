@@ -1,5 +1,7 @@
 # yura-site-vue
 
+By Pronicio ! (https://pronicio.tk)
+
 ## Project setup
 ```
 npm install
